@@ -1,0 +1,14 @@
+{
+  "rows": 8,
+  "cols": 8,
+  "mines": [
+    false, false, false, true, false, false, false, false,
+    false, true, false, false, false, false, false, false,
+    false, false, false, false, false, false, true, false,
+    false, false, false, false, false, false, false, false,
+    false, true, false, false, false, false, false, false,
+    false, false, false, false, true, false, false, false,
+    false, false, false, false, false, false, false, false,
+    false, false, false, false, false, true, false, false
+  ]
+}
